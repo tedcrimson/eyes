@@ -10,7 +10,7 @@ Flutter project
 ![preview](preview.gif)
 
 ### Platforms
-- Android
+- [Android](app.apk)
 - IOS
 - MacOs
 - Web
